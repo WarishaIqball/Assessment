@@ -3,6 +3,7 @@ Description
 This project is a simple web application for managing posts. Users can create, read, update, and delete posts.
 
 Features
+
 Create new posts
 View existing posts
 Update posts
