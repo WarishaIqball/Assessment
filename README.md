@@ -19,6 +19,7 @@ Install Composer dependencies: composer install
 Set up your environment variables: .env
 Run database migrations: php artisan migrate
 Serve the application: php artisan serve
+To check email command : php artisan send:daily-digest
 
 Usage
 Navigate to the application URL in your web browser.
